@@ -1,0 +1,144 @@
+/* this file is: style.css */
+
+body{
+	background-color:white;
+	background-size: cover;
+    }
+    
+    strong{
+    		font-weight: bold;
+    		}
+    
+    
+    nav{
+    	margin: auto;
+    	width: 1500px;
+    	text-align: center;
+    	}
+    
+    
+    
+    nav ul {
+        list-style-type: none;
+        margin: 50px;
+        padding: 10px;
+        overflow: hidden;
+    }
+    
+    	
+    nav a {
+        float: left;
+    }
+    
+   	
+
+	
+nav a:link, a:visited {
+    display: ;
+    width: 220px;
+    font-weight: ;
+    color: black;
+    background-color: lightgrey;
+    text-align: center;
+    padding: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 2px solid black;
+}
+
+  nav a:hover, a:active {
+    background-color: black;
+    color: maroon;
+}
+    
+    
+H1 {
+ color: #8812D9;
+ text-align: center;
+ font-family: oblique;
+ font-style: italic;
+ }
+
+H2 {
+ color: white;
+ text-align: center;
+ font-style: italic;
+ font-family: oblique;
+ text-decoration: underline;
+ font-size: medium;
+ }
+ 
+H3 {
+ color: black;
+ font-variant: ;
+ text-align: left;
+ font-style: italic;
+ font-family: oblique;
+ text-decoration: underline;
+ font-weight: bold;
+ }
+ 
+H4 {
+ color: black;
+ text-align: center;
+ font-style: italic;
+ font-family: oblique;
+ font-weight: bold;
+ }
+
+p {
+ font-family: italic;
+ text-align: center;
+ }
+
+a {
+    color: #EA9FEC;
+    text-decoration: none;
+}
+
+footer {
+ color: black;
+ text-decoration: none;
+ font-weight: bold;
+ font-size: small; 
+ text-align: center;
+}
+
+main {
+ text-align: left;
+ color: black;
+ font-size: small;
+ font-family: italic;
+ }
+ 
+ 
+
+hr {
+	border: 1px solid black;
+    }
+    
+     a:hover, a:active {
+       background-color: Darkblue;
+       color: Hotpink;
+}
+      
+ #gallery-text-left{
+  /* Added */
+  width: 50%;
+}
+#gallery-paragraph-1{
+  border-left:8px solid #3CB371;
+  border-radius:4px;
+  padding-left:15px;
+  /* Added */
+  word-wrap: break-word;
+}
+#gallery-paragraph-2{
+  border-left:8px solid #3CB371;
+  border-radius:4px;
+  padding-left:15px;
+}
+#gallery-text-right{
+  /* Added */
+  width: 50%;
+}

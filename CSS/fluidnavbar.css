@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar{
+	background-color:#EFC4F0;
+	margin-left:25%;
+	margin-right:10%;
+	color:#EA9FEC;
+	overflow:hidden;
+}
+
+.navbar a{
+	text-decoration:none;
+	color:#8812D9;
+	font-size:160%;
+	display:inline-block;
+	border:solid;
+	border-color:#EFC4F0;
+	border-width:.1%;
+	padding-left:0.1%;
+	padding-right:0.1%;
+}
+
+.navbar a:hover{
+	background-color:#EA9FEC;
+	color:white;
+	font-style:italic;
+}
+
+.navbar a:active{
+	background-color:#FCF2FF;
+	color:#FFFFFF;
+}

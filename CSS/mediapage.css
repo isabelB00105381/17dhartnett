@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h2{
+	color:#EA9FEC;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	text-align:center;
+	width:50%;
+	margin:auto;
+	padding-top:3%;
+	padding-bottom:2%;
+	font-size:200%;
+}
+
+h3{
+	text-align:center;
+}
+
+.column1{
+	text-align:center;
+	margin:auto;
+	width:50%;
+	background:-webkit-linear-gradient( left top, #ffffff, #8B2485);
+	padding-left:25%;
+	padding-right:25%;
+	padding-top:5%;
+	color:#8B2485;
+	padding-bottom:5%;
+}
+
+.media{
+	text-align:center;
+}

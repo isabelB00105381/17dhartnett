@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container{
+	background-color:#27D0F5;
+	background: -webkit-linear-gradient(left top, #FCF2FF, #8B2485);
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	height:600px;
+	padding-bottom:0%;
+	padding-left:2%;
+	padding-right:2%;
+	padding-top:2%;
+	display:block;
+}
+
+.samples{
+	background-color:#FCF2FF;
+	width:100%;
+	overflow:hidden;
+	text-align:center
+}
+
+.samples a{
+	text-decoration:none;
+	color:#EA9FEC;;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+.samples a:hover{
+	opacity:0.5;
+}
+
+.sample1{
+	width:30%;
+	display:inline-block;
+	height:20%;
+	overflow:hidden;
+}
+
+.sample2{
+	width:30%;
+	display:inline-block;
+	height:20%;
+	overflow:hidden;
+}
+
+
+.sample3{
+	width:30%;
+	display:inline-block;
+	height:20%;
+	overflow:hidden;
+	
+}
+
+h3{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color:#8812D9;
+	font-style:normal;
+}
